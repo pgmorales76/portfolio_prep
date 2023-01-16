@@ -4,8 +4,6 @@ html {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover; */
+    /* H/t to CSS Tricks for help with the above! https://css-tricks.com/perfect-full-page-background-image/#aa-awesome-easy-progressive-css-way */
     background-color: bisque;
 }
-
-/* H/t to CSS Tricks for help with the above! https://css-tricks.com/perfect-full-page-background-image/#aa-awesome-easy-progressive-css-way */
-
